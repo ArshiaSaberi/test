@@ -10,7 +10,7 @@ function App() {
  
   return (
     <>
-    <p>salam1 : {count}</p>
+    <p>salam : {count}</p>
     <button onClick={()=>{
       dispatch({type:"P"})
     }}>click</button>
