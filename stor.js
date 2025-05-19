@@ -14,3 +14,4 @@ export const stor = legacy_createStore(reduser)
 console.log("salam")
 console.log("salam salam");
 
+console.log("salam salam salam");
