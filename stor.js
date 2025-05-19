@@ -11,4 +11,4 @@ function reduser(state = 0, action) {  // مقدار اولیه برابر با 
 
 export const stor = legacy_createStore(reduser)
 
-
+console.log("salam")
